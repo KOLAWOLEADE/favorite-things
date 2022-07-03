@@ -3,8 +3,9 @@
 }
 
 span{
-    color: black;
-    font: bolder;
+    color: blue;
+    font-weight: bolder;
+
 }
 
 body{
