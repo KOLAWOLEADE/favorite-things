@@ -30,9 +30,14 @@ $(document).ready(function() {
 
        console.log(secondFavorite,firstFavorite,thirdDFavorite);
 
-       let brandNewFavorite = favorite.push(secondFavorite,firstFavorite,thirdDFavorite);
+       let brandNewFavorite = [];
+
+       brandNewFavorite = favorite.push(secondFavorite,firstFavorite,thirdDFavorite);
 
        console.log(brandNewFavorite);
+
+
+    //    $(".favor").show();
 
 
 
