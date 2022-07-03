@@ -1,0 +1,12 @@
+#favorite-things{
+    display: none;
+}
+
+span{
+    color: black;
+    font: bolder;
+}
+
+body{
+    background-color: darksalmon;
+}
