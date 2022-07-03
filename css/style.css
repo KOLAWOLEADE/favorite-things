@@ -10,4 +10,16 @@ span{
 
 body{
     background-color: darksalmon;
+    padding: 10px;
+    margin: 10px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: double;
+}
+
+input{
+    border-radius: 5px;
+    
 }
